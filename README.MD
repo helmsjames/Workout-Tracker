@@ -41,7 +41,7 @@ The user should be able to:
 https://github.com/helmsjames/Workout-Tracker   
 
 ## Portfolio Page
-https://helmsjames.github.io/
+https://github.com/helmsjames
 
 ## Screenshots
 ![Example screenshot](img1.png)
