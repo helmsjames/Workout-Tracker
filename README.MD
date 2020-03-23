@@ -34,8 +34,8 @@ The user should be able to:
 * View multiple the combined weight of multiple exercises on the stats page.
 
 ## Link to Deployed App
-[Link to deployed app](https://.herokuapp.com/) 
-(Click to open app)
+[Link to deployed app](https://quiet-oasis-96954.herokuapp.com//) 
+(https://quiet-oasis-96954.herokuapp.com/)
 
 ## GitHub Repo:
 https://github.com/helmsjames/Workout-Tracker   
